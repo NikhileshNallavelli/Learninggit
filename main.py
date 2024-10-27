@@ -1,3 +1,3 @@
 import this
 
-printf("Hello")
+printf("Hello World")
